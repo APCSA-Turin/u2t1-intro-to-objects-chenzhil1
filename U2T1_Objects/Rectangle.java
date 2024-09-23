@@ -1,4 +1,5 @@
- // Rectangle class definition
+package U2T1_Objects;
+// Rectangle class definition
  public class Rectangle {
 
     // instance variables, the object data stored with each object:

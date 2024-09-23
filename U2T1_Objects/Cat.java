@@ -1,3 +1,5 @@
+package U2T1_Objects;
+
 // Cat class definition
 public class Cat {
 
