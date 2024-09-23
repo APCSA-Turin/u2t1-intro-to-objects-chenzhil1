@@ -1,3 +1,5 @@
+package U2T1_Objects;
+
 public class StudentRunner {
     public static void main(String[] args) {
         Student stu1 = new Student("Jack", "BTHS", 11, 95.4);
